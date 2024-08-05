@@ -1,7 +1,6 @@
 # SCHOOL MANAGEMENT SYSTEM
 
-#### Video Demo : https://youtu.be/0oIkkwUR3Gw?si=qiA0MQ04ZyVCA5yQ
-
+#### Video Demo : https://youtu.be/09B4b1Qs9J0
 ### Description
 School Management System is a project that allows users to manage the records of the students and teachers bound to the respective school.
 
